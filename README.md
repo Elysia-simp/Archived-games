@@ -10,9 +10,13 @@ In other words, Do not do what you wouldn't do if these games were active update
 
 All submissions are welcomed and will be handled via Discord(Chi#4089) as I'd obviously need time to screen the files provided to ensure they meet the following
 
-A) Complete dump
+
+A) Complete dump (or as close to complete as we can get)
+
 B) Actually shut down*
+
 C) A active update game
+
 
 I don't particularly care if they have an encryption or not, Archival above convenience.
 
