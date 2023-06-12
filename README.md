@@ -8,7 +8,7 @@ In other words, Do not do what you wouldn't do if these games were active update
 
 # Submissions
 
-All submissions are welcomed and will be handled via Discord(Chi#4089) as I'd obviously need time to screen the files provided to ensure they meet the following
+All submissions are welcomed and will be handled via Discord(cbtdwg) as I'd obviously need time to screen the files provided to ensure they meet the following
 
 
 A) Complete dump (or as close to complete as we can get)
